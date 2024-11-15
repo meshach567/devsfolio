@@ -35,11 +35,10 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/meshach567",
   linkedin: "https://www.linkedin.com/in/meshach-ekene/",
-  gmail: "saadpasta70@gmail.com",
+  gmail: "meshacharinze@gmail.com",
   gitlab: "https://gitlab.com/meshach567",
   facebook: "https://www.facebook.com/arinze.meshachekene",
   medium: "https://medium.com/@meshach567",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
